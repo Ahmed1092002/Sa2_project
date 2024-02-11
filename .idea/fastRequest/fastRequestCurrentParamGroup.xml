@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestCurrentParamGroup">
+    <option name="className" value="com.example.orderfoodconsumer.orderfoodconsumer.Controller.FoodOrderController" />
+    <option name="filePath" value="" />
+    <option name="method" value="getAllFoodOrders" />
+    <option name="module" value="orderfoodconsumer" />
+    <option name="originUrl" value="/Food-Controller/AllFoodOrders" />
+    <option name="returnDocument" value="[{&quot;id&quot;:&quot;No comment,Type =Number&quot;,&quot;item&quot;:&quot;No comment,Type =String&quot;,&quot;amount&quot;:&quot;No comment,Type =Number&quot;,&quot;Deleted&quot;:&quot;No comment,Type =Boolean&quot;}]" />
+    <option name="url" value="/Food-Controller/AllFoodOrders" />
+  </component>
+</project>
