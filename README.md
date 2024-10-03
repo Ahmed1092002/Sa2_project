@@ -5,6 +5,19 @@ MicroServices Project
 Two Backend Communicating with each other by apache kafka and producer produce massage to send it to consumer by kafka and use api to send massage and get it ,
 the consumer receive this massage and save it in Sql Db ,
 we use docker to run the code and mySql db in vm 
+
+## Overview:   
+This project involves two backend systems communicating via Apache Kafka, where messages are produced and consumed, and the results are stored in an SQL database. Docker is used to manage the environment.
+
+## Technologies Used:
+- Apache Kafka
+- Docker
+- SQL Database
+
+## Features:
+- Microservice communication
+- Message queue processing
+
 ## Api Documentation
 Consumer 
 https://documenter.getpostman.com/view/26327400/2sA3Bkdtsc
